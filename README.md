@@ -50,7 +50,7 @@ This application is deployed on Vercel. You can view the live version here.
 
 - To deploy your own version, follow these steps:
 
-- Sign up for a (#Vercel) account.
+- Sign up for a Vercel account.
 - Import your project from GitHub or upload your code.
 - Configure environment variables if necessary.
 - Click on "Deploy" to launch your application.
