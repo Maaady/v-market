@@ -1,5 +1,25 @@
 # V-Market
 V-Market is a modern e-commerce platform built with **Next.js**, **React**, and **styled-components**. This application allows users to browse products, filter by category, and view detailed product information. It also includes user authentication features, enabling users to register, log in, and manage their sessions securely.
+# Structure
+v-market/
+├── components/
+│   ├── Footer.js
+│   ├── Header.js
+│   └── ProductCard.js
+├── pages/
+│   ├── api/
+│   │   └── auth/
+│   │       └── [...nextauth].js
+│   ├── auth/
+│   │   ├── register.js
+│   │   └── signin.js
+│   ├── index.js
+│   └── _app.js
+├── styles/
+│   └── globals.css
+├── .babelrc
+├── package.json
+└── README.md
 
 ## Table of Contents
 
