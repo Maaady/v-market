@@ -50,7 +50,7 @@ This application is deployed on Vercel. You can view the live version here.
 
 - To deploy your own version, follow these steps:
 
-- Sign up for a Vercel account.
+- Sign up for a (#Vercel) account.
 - Import your project from GitHub or upload your code.
 - Configure environment variables if necessary.
 - Click on "Deploy" to launch your application.
@@ -69,5 +69,4 @@ This application is deployed on Vercel. You can view the live version here.
 - User profiles for managing order history and preferences.
 - Advanced search capabilities with filters based on price range, ratings, etc.
 - Admin dashboard for managing product listings and user accounts.
-- 
-This structured README provides a comprehensive overview of your project and will help users understand it quickly. 
+- This structured README provides a comprehensive overview of your project and will help users understand it quickly. 
